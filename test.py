@@ -1,4 +1,6 @@
-str = "1:30"
-print(str)
-str = str.lower()
-print(str)
+import math
+
+
+user_in = '59'
+print(len(user_in) != 2)
+print(int(user_in) > 59)

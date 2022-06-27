@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T13:24:08.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36 OPR/87.0.4390.58" version="20.0.3" etag="7Gq5KYL8lSLsW0jOvH07" type="github"><diagram id="Nj0yBFR5v-u9RDfdIlvR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-27T13:58:10.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36 OPR/87.0.4390.58" etag="17bLRVrUEFCDl55EaRjC" version="20.0.3" type="github">
+  <diagram id="Nj0yBFR5v-u9RDfdIlvR" name="Page-1">
+    <mxGraphModel dx="1813" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lnNWcm1TgEool1jxPm3f-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="30" width="660" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="lnNWcm1TgEool1jxPm3f-2" value="Main program loop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnNWcm1TgEool1jxPm3f-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lnNWcm1TgEool1jxPm3f-3" target="lnNWcm1TgEool1jxPm3f-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lnNWcm1TgEool1jxPm3f-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lnNWcm1TgEool1jxPm3f-3" target="lnNWcm1TgEool1jxPm3f-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lnNWcm1TgEool1jxPm3f-3" value="Intro, pick 1 of 2 modes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="70" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnNWcm1TgEool1jxPm3f-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lnNWcm1TgEool1jxPm3f-4" target="lnNWcm1TgEool1jxPm3f-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lnNWcm1TgEool1jxPm3f-4" value="&lt;ul&gt;&lt;li&gt;Adding Hours&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnNWcm1TgEool1jxPm3f-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lnNWcm1TgEool1jxPm3f-7" target="lnNWcm1TgEool1jxPm3f-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lnNWcm1TgEool1jxPm3f-7" value="&lt;ul&gt;&lt;li&gt;When to when?&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="110" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnNWcm1TgEool1jxPm3f-9" value="Loop that adds hours until user quits" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lnNWcm1TgEool1jxPm3f-11" value="Finding duration until user quits" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
